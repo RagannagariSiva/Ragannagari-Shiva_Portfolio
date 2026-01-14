@@ -14,7 +14,7 @@ It’s designed as an online portfolio to highlight **who I am, what I study, an
 
 ---
 
-## 🛠️Tech Stack  
+## Tech Stack  
 - **Frontend:** HTML5, CSS3, JavaScript  
 - **Design:** Responsive layouts, custom styling  
 - **Version Control:** Git & GitHub  
@@ -22,7 +22,5 @@ It’s designed as an online portfolio to highlight **who I am, what I study, an
 ---
 
 ## Getting Started  
+https://rockstar1611.github.io/Ragannagari-Shiva_Portfolio/
 
-1. Clone the repository:  
-   ```bash
-   git clone https://github.com/Rockstar1611/Profile.git
