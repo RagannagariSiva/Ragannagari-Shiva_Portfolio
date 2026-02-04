@@ -22,5 +22,5 @@ It’s designed as an online portfolio to highlight **who I am, what I study, an
 ---
 
 ## Getting Started  
-https://rockstar1611.github.io/Ragannagari-Shiva_Portfolio/
+https://ragannagarisiva.github.io/Ragannagari-Shiva_Portfolio/
 
