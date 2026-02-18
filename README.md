@@ -1,5 +1,4 @@
 # Profile
-# Profile  
 
 This repository contains my **personal profile website**, showcasing my background, studies, and projects.  
 It’s designed as an online portfolio to highlight **who I am, what I study, and what I do**.  
@@ -22,5 +21,7 @@ It’s designed as an online portfolio to highlight **who I am, what I study, an
 ---
 
 ## Getting Started  
-https://ragannagarisiva.github.io/Ragannagari-Shiva_Portfolio/
+<a href="https://ragannagarisiva.github.io/Ragannagari-Shiva_Portfolio/" target="_blank">
+  <img src="Resume.png" alt="resume">
+</a>
 
